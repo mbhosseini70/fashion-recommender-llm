@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+tqdm
+torch
+transformers
+Pillow
+fastapi
+uvicorn
+pydantic
+open_clip_torch
+ftfy
+gunicorn
+cohere
